@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AtmW",
+            "request": "launch",
+            "mainClass": "AtmW",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "CabFareEstimator",
+            "request": "launch",
+            "mainClass": "CabFareEstimator",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "ECDCalculator",
+            "request": "launch",
+            "mainClass": "ECDCalculator",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "ExamResultChecker",
+            "request": "launch",
+            "mainClass": "ExamResultChecker",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "MobileRecharge",
+            "request": "launch",
+            "mainClass": "MobileRecharge",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "TrainTicket",
+            "request": "launch",
+            "mainClass": "TrainTicket",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "TrainTicketValidator",
+            "request": "launch",
+            "mainClass": "TrainTicketValidator",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "resultcheker",
+            "request": "launch",
+            "mainClass": "resultcheker",
+            "projectName": "If else_aaa3bf2d"
+        },
+        {
+            "type": "java",
+            "name": "userchecker",
+            "request": "launch",
+            "mainClass": "userchecker",
+            "projectName": "If else_aaa3bf2d"
+        }
+    ]
+}
